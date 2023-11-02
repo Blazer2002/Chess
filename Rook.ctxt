@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rook
+comment0.text=\r\n\ This\ is\ your\ rook,\ a\ powerful\ pillar\ that\ blocks\ your\ opponent\ from\ getting\ to\ your\ king.\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 26th,\ 2020\r\n
+comment1.params=color\ location
+comment1.target=Rook(int,\ int[])
+comment2.params=
+comment2.target=void\ moves()
+numComments=3

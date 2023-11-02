@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DisBoard
+comment0.text=\r\n\ Welcome\ to\ DisBoard.\ This\ is\ a\ chess\ game\ where\ the\ players\ send\ back\ and\ forth\ this\r\n\ greenfoot\ file\ and\ snap\ a\ screenshot\ to\ ensure\ that\ the\ other\ player\ does\ not\ cheat.\r\n\ \r\n\ Have\ fun\!\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 27th,\ 2020\r\n
+comment1.params=
+comment1.target=DisBoard()
+comment1.text=\r\n\ The\ Creation\ of\ a\ new\ World.\ Calling\ this\ will\ reset\ the\ world\ to\ its\ former\ glory.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ initializeNewPieces()
+comment3.params=
+comment3.target=void\ placePieces()
+comment4.params=
+comment4.target=Current\ getCurrent()
+comment5.params=
+comment5.target=Previous\ getPrevious()
+comment6.params=other
+comment6.target=void\ setCurrent(Current)
+comment7.params=other
+comment7.target=void\ setPrevious(Previous)
+comment8.params=
+comment8.target=void\ act()
+numComments=9

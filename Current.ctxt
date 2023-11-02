@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Current
+comment0.text=\r\n\ Creates\ a\ red\ box\ showing\ where\ the\ current\ chosen\ piece\ can\ move.\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 27th,\ 2020\r\n
+comment1.params=
+comment1.target=Current()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Current\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

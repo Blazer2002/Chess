@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=King
+comment0.text=\r\n\ This\ is\ your\ King.\ The\ moment\ he\ falls,\ your\ entire\ Kingdom\ is\ dead.\ Your\ goal\ is\ to\ keep\r\n\ your\ king\ alive\ at\ all\ times.\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 26th,\ 2020\r\n
+comment1.params=color\ location
+comment1.target=King(int,\ int[])
+comment2.params=
+comment2.target=void\ moves()
+numComments=3

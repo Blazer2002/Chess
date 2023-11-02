@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ChessPiece
+comment0.text=\r\n\ Chesspieces\ represent\ your\ army.\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 27th,\ 2020\r\n
+comment1.params=color\ location
+comment1.target=ChessPiece(int,\ int[])
+comment2.params=color\ x\ y
+comment2.target=ChessPiece(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ moves()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ ChessPiece\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=int[]\ getCoords()
+comment6.params=location
+comment6.target=void\ setCoords(int[])
+comment7.params=x\ y
+comment7.target=void\ setCoords(int,\ int)
+comment8.params=
+comment8.target=int\ getAlignment()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\r\n\ This\ is\ the\ knight.\ Her\ years\ of\ training\ have\ led\ her\ to\ use\ advanced\ techniques\ to\ move\r\n\ accross\ the\ battlefield.\r\n\ \r\n\ @author\ Ivan\ Chan\ \r\n\ @version\ Dec.\ 26th,\ 2020\r\n
+comment1.params=color\ location
+comment1.target=Knight(int,\ int[])
+comment2.params=
+comment2.target=void\ moves()
+numComments=3
